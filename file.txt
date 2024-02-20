@@ -1,0 +1,11 @@
+add_config user_config {"yogesh":"admin"}
+add_config parna_config {"parna":"admin"}
+add_config sherawat_config {"sherawat":"admin"}
+add_config mondal_config {"mondal":"admin"}
+add_config t_config {"yogesh":"admin"}
+add_config a_config {"yogesh":"admin"}
+add_config yo_config {"yogesh":"admin"}
+add_config n_config {"yogesh":"admin"}
+search_config parna
+delete_config parna_config
+search_config parna
