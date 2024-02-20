@@ -24,6 +24,15 @@ services
             - search client can be changed over time
                 - to tackle this, will use composition
 
+    - output service
+        - to output the result of the command
+
+    - search
+        - isearch
+        - inmemory search
+        - elastic search
+        search clients can vary so need to accomadate this
+
 commands
     - command line interface related methods in here
     - add a new config
@@ -33,6 +42,12 @@ commands
 modes
     - interactive mode
     - file mode
+
+exceptions
+    - self explanatory
+
+command_factory
+    - to get the command from the command string
 
 main
     - main method to run the application
